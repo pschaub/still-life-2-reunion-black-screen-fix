@@ -1,0 +1,15 @@
+{
+  "base": 7241728,
+  "absoluteFixups": [
+    187,
+    238,
+    289,
+    343
+  ],
+  "relativeExternalFixups": [
+    354,
+    429,
+    436
+  ],
+  "entryOffset": 0
+}

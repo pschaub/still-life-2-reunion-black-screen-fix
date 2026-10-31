@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><AssemblyName>StillLife2Patcher</AssemblyName>
+    <AssemblyTitle>Still Life 2 - Reunion Black Screen Fix</AssemblyTitle><Product>Still Life 2 - Reunion Black Screen Fix</Product>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Core/StillLife2Patcher.Core.csproj" /></ItemGroup>
+  <ItemGroup><EmbeddedResource Include="Localization/strings.json" /></ItemGroup>
+</Project>

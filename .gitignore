@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+dist/
+.build-home/
+.build-packages/
+artifacts/
+*.user
+*.bak
+*.tmp
